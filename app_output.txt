@@ -1,0 +1,21 @@
+Student name Kevin
+Student grade 100
+Student name Kelly
+Student grade 93
+Student name Toby
+Student grade 88
+Student name Michael
+Student grade 62
+Student name Creed
+Student grade 91
+Student name Phyllis
+Student grade 71
+Student name Stanley
+Student grade 88
+Student name Dwight
+Student grade 80
+Student name Pam
+Student grade 80
+Student name Jim
+Student grade 92
+The Roster's Average is 84.5
